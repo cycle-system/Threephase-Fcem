@@ -5,5 +5,5 @@ Fcem_ThreePhase.egg-info/SOURCES.txt
 Fcem_ThreePhase.egg-info/dependency_links.txt
 Fcem_ThreePhase.egg-info/requires.txt
 Fcem_ThreePhase.egg-info/top_level.txt
-fcem/__init__.py
-fcem/fcem_estimator.py
+ThreePhase-fcem/Threephasefcem_estimator.py
+ThreePhase-fcem/__init__.py
