@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: Fcem-ThreePhase
+Name: ThreePhaseFcem
 Version: 0.0.1
 Summary: Fuzzy Comprehensive Evaluation Methodology for ThreePhase Systems
 Home-page: https://github.com/cycle-system/Threephase-Fcem
 Author: Cycle ML Team
 Author-email: ml@cyclesystem.org
 License: UNKNOWN
-Description: # ThreePhase-fcem
+Description: # ThreePhaseFcem
         Fuzzy Comprehensive Evaluation Methodology for ThreePhase Systems
         
 Platform: UNKNOWN
